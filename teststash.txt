@@ -1,1 +1,2 @@
 a test of git stash
+a simple test
