@@ -1,1 +1,1 @@
-a test og git stash
+a test of git stash
